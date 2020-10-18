@@ -46,5 +46,5 @@ if(deformation < 100)
 
 }
 
-  //drawSprites();
+  drawSprites();
 }
