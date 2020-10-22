@@ -7,7 +7,7 @@ function setup() {
   createCanvas(1600,400);
   
   speed = random(55,90);
-  weigth=random(400,1500);
+  weigth<=random(400,1500);
   
   
   car = createSprite(50, 200, 50, 50);
